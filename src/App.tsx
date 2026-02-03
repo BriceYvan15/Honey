@@ -217,20 +217,17 @@ const App: React.FC = () => {
 
               <div className="bg-rose-50/80 p-6 rounded-2xl border-2 border-rose-100 shadow-inner relative">
                 <Quote className="absolute -top-3 -left-2 text-rose-200 transform -scale-x-100" size={30} />
-                <p className="text-rose-700 text-lg leading-relaxed italic mb-4">
-                  "Depuis que tu es entrée dans ma vie, chaque instant a pris une couleur particulière. Ton sourire est ma plus belle récompense et ta tendresse mon plus grand trésor."
+                <p className="text-rose-700 text-lg leading-relaxed mb-4">
+                  💕 j&apos;ai d&apos;abord fait ce petit jeu avec le bouton &quot;Oui&quot; et le &quot;Non&quot; qui s&apos;enfuit dès qu&apos;on s&apos;approche qui était dans la vidéo que je t&apos;ai partagé. Mais je me suis dit que tu devais déjà connaître ce concept, que ce serait trop prévisible. Alors j&apos;ai préféré te créer quelque chose d&apos;un peu plus perso : le mot de passe, le puzzle avec ta photo... C&apos;est pas parfait, mais au moins c&apos;est fait pour toi et j&apos;espère que tu as aimé. 😊
                 </p>
-                <p className="text-rose-700 text-lg leading-relaxed italic">
-                  "Merci de faire battre mon cœur un peu plus fort chaque jour. Je suis tellement fier et heureux que tu sois ma Valentine."
+                <p className="text-rose-700 text-lg leading-relaxed mb-4">
+                  Tu sais, on est tous les deux en train de construire nos vies, nos avenirs, notre stabilité. C&apos;est notre priorité à tous les deux en ce moment, et c&apos;est normal. Mais je crois sincèrement qu&apos;on peut aussi construire quelque chose ensemble, à notre façon. On n&apos;a pas besoin de choisir entre nos ambitions et nous. On peut avancer chacun de notre côté tout en avançant ensemble, à notre rythme, sans pression, sans sacrifices.
                 </p>
-              </div>
-
-              <div className="text-center pt-4">
-                <p className="text-rose-400 font-romantic text-2xl animate-pulse">
-                  Je t'aime infiniment...
+                <p className="text-rose-700 text-lg leading-relaxed mb-4">
+                  La distance rend les choses compliquées, c&apos;est vrai. Nos agendas chargés aussi. Mais je veut vraiment qu&apos;on trouve toujours du temps l&apos;un pour l&apos;autre. Et moi, je veux te faire cette place dans ma vie. Je veux qu&apos;on crée nos moments, même rares, même virtuels parfois, mais qu&apos;ils soient à nous. 😊
                 </p>
-                <p className="text-rose-300 text-xs mt-4 uppercase tracking-[0.2em]">
-                  Pour toujours et à jamais
+                <p className="text-rose-700 text-lg leading-relaxed">
+                  Je t&apos;aime, Honey. Vraiment. Et j&apos;ai envie de voir jusqu&apos;où on peut aller ensemble, sans forcer les choses, juste en étant nous. ❤️
                 </p>
               </div>
             </div>
@@ -246,7 +243,7 @@ const App: React.FC = () => {
       </div>
 
       <footer className="w-full text-center text-rose-300 text-xs tracking-widest uppercase py-6 z-10">
-        Fait avec tout mon amour ❤️ 2024
+        Fait avec tout mon amour ❤️ doudou
       </footer>
 
       <style>{`
